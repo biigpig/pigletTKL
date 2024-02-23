@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Users\Public\Documents\Altium\keyboard\PCB2.PcbDoc
+Date         : 22/02/2024
+Time         : 3:28:36 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 347.6625mmx123.825mm
+    Components on board, 182
+count : 2
